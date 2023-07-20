@@ -1,2 +1,2 @@
 # Javascript-Project
-Weather app
+Weather app create using vanilla javascript and weather web api 
